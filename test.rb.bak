@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # first line
 # second line
+# new third line
 =======
-# new first line
->>>>>>> issue35
+# the third new first line
+>>>>>>> third test.rb
